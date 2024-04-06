@@ -1,2 +1,2 @@
 # server
-nic
+serwer minecraft
